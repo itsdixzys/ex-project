@@ -1,2 +1,0 @@
-# ex-project
-for learning
